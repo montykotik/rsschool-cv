@@ -20,7 +20,7 @@ Basics of HTML, CSS. I study JS, Git.
 There is no code yet, but I'm working on it :smiley:
 
 ## Work experience
-I have no experience as a programmer. I have been working as an engineer for almost a year now.
+I have no experience as a programmer. I have been working as an engineer for two years. I worked as a testing assessor for six months.
 
 ## Education
 Higher education (BNTU)
