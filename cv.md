@@ -6,7 +6,7 @@
 * telegram - @montykotik
 
 ## About me
-Hi! I am 22 years old, and I recently graduated from university. 
+Hi! I am 24 years old, and I recently graduated from university. 
 I am an engineer, but **I want to become a programmer**.
 During my studies, I learned about programming, but I realized that I want to do it only when I started working. 
 Programming experience is limited to performing laboratory work at the university.
